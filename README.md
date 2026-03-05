@@ -1,5 +1,4 @@
 💰
 Guia de Renda Fixa e Variável: Estratégias e Perfis de Investimento
-⚖️ Guia Comparativo: Renda Fixa versus Renda Variável
 Os textos apresentam um guia abrangente sobre o universo dos investimentos, detalhando as características fundamentais da renda fixa e da renda variável. As fontes explicam que a rentabilidade, a liquidez e o risco formam o tripé essencial para qualquer tomada de decisão financeira consciente. É dado um destaque especial à importância da reserva de emergência, que deve priorizar a segurança e o resgate imediato para cobrir imprevistos. Além disso, o conteúdo aborda como o perfil do investidor — seja ele conservador, moderado ou arrojado — define a melhor estratégia de alocação de ativos. Os artigos também exploram a diversificação da carteira como um método eficaz para mitigar perdas e potencializar ganhos a longo prazo. Por fim, as fontes orientam sobre como começar a investir mesmo com pouco capital, utilizando ferramentas modernas e planejamento.
 [![Acessar no NotebookLM](https://img.shields.io/badge/NotebookLM-DesafioLM-blue)](https://notebooklm.google.com/notebook/77504d86-d7a0-4b6a-bd10-793867a42b7e)
